@@ -5,7 +5,6 @@ import Features from './components/Features';
 import Studio from './components/Studio';
 import Community from './components/Community';
 import Stats from './components/Stats';
-import Pricing from './components/Pricing';
 import CTA from './components/CTA';
 import Footer from './components/Footer';
 
@@ -20,7 +19,6 @@ function App() {
         <Studio />
         <Community />
         <Stats />
-        <Pricing />
         <CTA />
       </main>
       <Footer />
